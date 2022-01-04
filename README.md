@@ -16,6 +16,7 @@ This code covers
   12. Handling Heteroscedasticity
   13. Heteroscedasticity Consistent Coefficients
 
+Dataset can be downloaded from [here](https://www.kaggle.com/sandhyakrishnan02/paneldata).
 
 Can checkout detailed analysis of panel data regression [here](https://www.kaggle.com/sandhyakrishnan02/econometric-analysis-of-panel-data-using-r)
 
