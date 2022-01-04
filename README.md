@@ -15,3 +15,11 @@ This code covers
   11. Breusch-Pagan (BP) Test
   12. Handling Heteroscedasticity
   13. Heteroscedasticity Consistent Coefficients
+
+
+Can checkout detailed analysis of panel data regression [here](https://www.kaggle.com/sandhyakrishnan02/econometric-analysis-of-panel-data-using-r)
+
+To figure out :
+  1. If a dataset is panel data or not?
+  2. If Panel Data is a balanced or unbalanced ?
+can check [here](https://sandhyakrishnan02.medium.com/?p=fd973fa788ae).
